@@ -1,0 +1,15 @@
+# Spring Boot - Sensitive configuration
+**/application.properties
+**/.env
+**/application-local.properties
+
+# Maven - Generated files
+**/target/
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
